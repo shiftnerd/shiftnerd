@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Ben Climer👋
 
 I’m a tinkerer and Automation Developer. I spend most of my spare time building tools that make life easier for Managed Service Providers (MSPs), automators, and anyone who loves a clean workflow.
 
