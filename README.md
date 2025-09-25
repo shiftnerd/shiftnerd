@@ -27,23 +27,12 @@ MSP-focused utilities and integrations
 💬 Ask me about:
 Automation, RMM systems, OpenAPI schema design, workflow tooling, and building weird-but-useful side projects.
 
-📫 How to reach me:
+📫 **How to reach me:**  
+- GitHub: [shiftnerd](https://github.com/shiftnerd)  
+- LinkedIn: [Ben Climer](https://www.linkedin.com/in/benclimer/)  
+- Podcast: [Panda Award Show](https://pandaaward.show)  
 
-GitHub: shiftnerd
-
-LinkedIn: Ben Climer
-
-Podcast: Panda Award Show
-
-⚡ Fun fact:
-I like to blur the lines between useful utilities and creative side projects—sometimes a schema linter, sometimes a parody soundboard. Both make the community better.
-
-😁 I’m proud of:
-
-🩺 Schema Doctor
-: Validate, clean, and streamline OpenAPI schemas.
-
-🏷 Tenant ID Finder
-: Easily discover tenant IDs for Microsoft 365 / Azure.
-
-🎙 Panda Award Show: A community-driven podcast mixing humor, MSP insights, and tech culture.
+😁 **I’m proud of:**  
+- 🩺 **[Schema Doctor](https://github.com/shiftnerd/schemadoctor)**: Validate, clean, and streamline OpenAPI schemas.  
+- 🏷 **[Tenant ID Finder](https://github.com/shiftnerd/tenantidfinder)**: Easily discover tenant IDs for Microsoft 365 / Azure.  
+- 🎙 **[Panda Award Show](https://pandaaward.show)**: A community-driven podcast mixing humor, MSP insights, and tech culture.  
