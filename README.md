@@ -30,9 +30,7 @@ Automation, RMM systems, OpenAPI schema design, workflow tooling, and building w
 📫 **How to reach me:**  
 - GitHub: [shiftnerd](https://github.com/shiftnerd)  
 - LinkedIn: [Ben Climer](https://www.linkedin.com/in/benclimer/)  
-- Podcast: [Panda Award Show](https://pandaaward.show)  
 
 😁 **I’m proud of:**  
 - 🩺 **[Schema Doctor](https://github.com/shiftnerd/schemadoctor)**: Validate, clean, and streamline OpenAPI schemas.  
 - 🏷 **[Tenant ID Finder](https://github.com/shiftnerd/tenantidfinder)**: Easily discover tenant IDs for Microsoft 365 / Azure.  
-- 🎙 **[Panda Award Show](https://pandaaward.show)**: A community-driven podcast mixing humor, MSP insights, and tech culture.  
