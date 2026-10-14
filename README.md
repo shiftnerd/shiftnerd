@@ -12,10 +12,6 @@ Tenant ID Finder
 
 Expanding my side projects into shareable utilities and lightweight apps that support automation communities.
 
-🎙 Other places you can find me:
-I co-host the Panda Award Show Podcast
-, where we mix career talk with humor, community stories, and absurd tech nostalgia.
-
 👯 Looking to collaborate on:
 
 OpenAPI tooling
